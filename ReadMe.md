@@ -16,7 +16,7 @@ In this project, I created an algorithm to efficiently row reduce a matrix. This
 4. Documentation of use:
 As an imported module, the LinAlg module can be used to do functions and calculations not possible within the normal Python framework.
 In the interface, users can type a menu option and follow the directions to do the desired calculation.
-Example run of main.py (user inputs in bold):
+Example run of main.py:
 
 ```
 user$ python3 main.py
@@ -28,14 +28,14 @@ Type 3 for: Finding an inverse of a matrix.
 Type 4 for: Finding a determinant of a matrix.
 Type 5 for: Finding rational eigenvalues of a matrix.
 Type 'quit' to exit at any time.
-Choice: **1**
+Choice: 1
 Enter equations one-by-one. They must by in the form:
           ax+by=c or ax + by = c; constants must be on the right side.
-Type equation or type 'go' after inputting all equations. # pass:q[**2x + 3y =10**]
-Type equation or type 'go' after inputting all equations. **x +-y=1**
-Type equation or type 'go' after inputting all equations. **go**
+Type equation or type 'go' after inputting all equations. 2x + 3y =10
+Type equation or type 'go' after inputting all equations. x +-y=1
+Type equation or type 'go' after inputting all equations. go
 Solution set: {'x': 2.6, 'y': 1.6}
-Continue? [y/n] **y**
+Continue? [y/n] y
 Here is the menu:
 Type 1 for: Solving a system of equations.
 Type 2 for: Row-reducing a matrix.
@@ -43,15 +43,15 @@ Type 3 for: Finding an inverse of a matrix.
 Type 4 for: Finding a determinant of a matrix.
 Type 5 for: Finding rational eigenvalues of a matrix.
 Type 'quit' to exit at any time.
-Choice: **2**
-How many rows are in the matrix? This must be an integer. **2**
+Choice: 2
+How many rows are in the matrix? This must be an integer. 2
 Enter each row as a list.
-Row: **[1,2]**
-Row: **[3,4]**
+Row: [1,2]
+Row: [3,4]
 Row reduced matrix:
 [1, 0]
 [0, 1]
-Continue? [y/n] **n**
+Continue? [y/n] n
 ```
 
 5. Additional comments:
