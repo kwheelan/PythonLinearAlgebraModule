@@ -1,6 +1,6 @@
-##Linear Algebra Module
-###Katrina Wheelan
-###(Spring 2018)
+## Linear Algebra Module
+### Katrina Wheelan
+### (Spring 2018)
 
 1. Files in this repository:
    README - this file, an overview of the project
@@ -18,6 +18,7 @@ As an imported module, the LinAlg module can be used to do functions and calcula
 In the interface, users can type a menu option and follow the directions to do the desired calculation.
 Example run of main.py (user inputs in bold):
 
+```
 user$ python3 main.py
 This is a linear algebra module.
 Here is the menu:
@@ -51,6 +52,7 @@ Row reduced matrix:
 [1, 0]
 [0, 1]
 Continue? [y/n] **n**
+```
 
 5. Additional comments:
 Make sure to input all text in the format the prompt specifies. (i.e. enter an integer when it says ‘This must be an integer’ and enter in the form ‘[1,2,3]’ when it asks for a list).
