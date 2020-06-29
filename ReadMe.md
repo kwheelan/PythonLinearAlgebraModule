@@ -31,7 +31,7 @@ Type 'quit' to exit at any time.
 Choice: **1**
 Enter equations one-by-one. They must by in the form:
           ax+by=c or ax + by = c; constants must be on the right side.
-Type equation or type 'go' after inputting all equations. **2x + 3y =10**
+Type equation or type 'go' after inputting all equations. # pass:q[**2x + 3y =10**]
 Type equation or type 'go' after inputting all equations. **x +-y=1**
 Type equation or type 'go' after inputting all equations. **go**
 Solution set: {'x': 2.6, 'y': 1.6}
