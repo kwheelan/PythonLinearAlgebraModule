@@ -1,6 +1,6 @@
-Katrina Wheelan
-Linear Algebra Module
-(Spring 2018)
+##Linear Algebra Module
+###Katrina Wheelan
+###(Spring 2018)
 
 1. Files in this repository:
    README - this file, an overview of the project
@@ -27,14 +27,14 @@ Type 3 for: Finding an inverse of a matrix.
 Type 4 for: Finding a determinant of a matrix.
 Type 5 for: Finding rational eigenvalues of a matrix.
 Type 'quit' to exit at any time.
-Choice: 1
+Choice: **1**
 Enter equations one-by-one. They must by in the form:
           ax+by=c or ax + by = c; constants must be on the right side.
-Type equation or type 'go' after inputting all equations. 2x + 3y =10
-Type equation or type 'go' after inputting all equations. x +-y=1
-Type equation or type 'go' after inputting all equations. go
+Type equation or type 'go' after inputting all equations. **2x + 3y =10**
+Type equation or type 'go' after inputting all equations. **x +-y=1**
+Type equation or type 'go' after inputting all equations. **go**
 Solution set: {'x': 2.6, 'y': 1.6}
-Continue? [y/n] y
+Continue? [y/n] **y**
 Here is the menu:
 Type 1 for: Solving a system of equations.
 Type 2 for: Row-reducing a matrix.
@@ -42,15 +42,15 @@ Type 3 for: Finding an inverse of a matrix.
 Type 4 for: Finding a determinant of a matrix.
 Type 5 for: Finding rational eigenvalues of a matrix.
 Type 'quit' to exit at any time.
-Choice: 2
-How many rows are in the matrix? This must be an integer. 2
+Choice: **2**
+How many rows are in the matrix? This must be an integer. **2**
 Enter each row as a list.
-Row: [1,2]
-Row: [3,4]
+Row: **[1,2]**
+Row: **[3,4]**
 Row reduced matrix:
 [1, 0]
 [0, 1]
-Continue? [y/n] n
+Continue? [y/n] **n**
 
 5. Additional comments:
 Make sure to input all text in the format the prompt specifies. (i.e. enter an integer when it says ‘This must be an integer’ and enter in the form ‘[1,2,3]’ when it asks for a list).
