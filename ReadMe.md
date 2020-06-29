@@ -3,9 +3,9 @@
 ### (Spring 2018)
 
 1. Files in this repository:
-   README - this file, an overview of the project
-   LinAlg - A module containing all classes and functions in a linear algebra module. This module can be used on its own in the command line, or within main.py.
-   main.py - A python script that creates a more user-friendly interface to use the LinAlg module.
+   - **README** - this file, an overview of the project
+   - **LinAlg** - A module containing all classes and functions in a linear algebra module. This module can be used on its own in the command line, or within main.py.
+   - **main.py** - A python script that creates a more user-friendly interface to use the LinAlg module.
 
 2. Additional modules required by this software: none
 
